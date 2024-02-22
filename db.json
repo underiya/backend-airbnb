@@ -1,0 +1,90 @@
+{
+  "locations": [
+    {
+      "title": "Cozy Haven Guesthouse",
+      "location": "Delhi",
+      "images": [
+        "image1.jpg",
+        "image2.jpg",
+        "image3.jpg"
+      ],
+      "rating": "4.8",
+      "nearBy": "Connaught Place, India Gate",
+      "price": "6000",
+      "map_location": {
+        "lat": "28.6139",
+        "long": "77.2090"
+      },
+      "description": "Cozy Haven Guesthouse offers a warm and welcoming environment for travelers visiting Delhi. Situated in the heart of the city, our guesthouse provides comfortable accommodation and easy access to major attractions.",
+      "reviews": [
+        {
+          "image": "reviewer1.jpg",
+          "city": "Mumbai",
+          "name": "John Doe",
+          "review_msg": "Excellent place to stay! The rooms are clean and well-maintained. The staff is friendly and helpful. Would definitely come back again.",
+          "rating": "5"
+        },
+        {
+          "image": "reviewer2.jpg",
+          "city": "Bangalore",
+          "name": "Jane Smith",
+          "review_msg": "Had a wonderful experience here. The location is perfect, and the amenities provided are great. Highly recommend!",
+          "rating": "4.5"
+        }
+      ],
+      "amenities": [
+        "Free Breakfast",
+        "Wifi",
+        "24/7 Room Service"
+      ],
+      "id": "d93e"
+    },
+    {
+      "title": "Urban Retreat Hostel",
+      "location": "Delhi",
+      "images": [
+        "image4.jpg",
+        "image5.jpg",
+        "image6.jpg"
+      ],
+      "rating": "4.5",
+      "nearBy": "Karol Bagh, Red Fort",
+      "price": "3500",
+      "map_location": {
+        "lat": "28.7041",
+        "long": "77.1025"
+      },
+      "description": "Urban Retreat Hostel offers budget-friendly accommodation for backpackers and solo travelers in Delhi. Our hostel provides a comfortable stay with easy access to public transportation and popular landmarks.",
+      "reviews": [
+        {
+          "image": "reviewer3.jpg",
+          "city": "Chennai",
+          "name": "Alice Johnson",
+          "review_msg": "Had a pleasant stay here. The staff was friendly, and the atmosphere was lively. Will definitely recommend it to fellow travelers.",
+          "rating": "4"
+        },
+        {
+          "image": "reviewer4.jpg",
+          "city": "Kolkata",
+          "name": "Robert Brown",
+          "review_msg": "Great value for money! The location is convenient, and the facilities provided are good. Enjoyed my time here.",
+          "rating": "4.5"
+        }
+      ],
+      "amenities": [
+        "Shared Kitchen",
+        "Laundry Facilities",
+        "Common Lounge"
+      ],
+      "id": "f728"
+    },
+    {
+      "title": "aassssaaaassa",
+      "id": "jtJUxFb"
+    },
+    {
+      "title": "abc",
+      "id": "VZao3kz"
+    }
+  ]
+}
