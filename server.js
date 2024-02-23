@@ -7,6 +7,9 @@ require("dotenv").config();
 const PORT = process.env.PORT || 3000;
 const app = express();
 
+// Enable CORS for all origins
+app.use(cors());
+
 // Serve static files from the 'public' directory
 app.use(express.static(path.join(__dirname, "public")));
 
