@@ -1,7 +1,9 @@
 // server.js
 const express = require("express");
 const jsonServer = require("json-server");
+
 const path = require("path");
+const cors = require("cors");
 require("dotenv").config();
 
 const PORT = process.env.PORT || 3000;
